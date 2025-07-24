@@ -1,0 +1,36 @@
+# Created by https://www.toptal.com/developers/gitignore/api/arduino
+# Edit at https://www.toptal.com/developers/gitignore?templates=arduino
+
+### Arduino ###
+# Arduino temporary files
+*.tmp
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.S
+*.ino.cpp
+
+# Arduino build output files
+build/
+*build/
+/build/
+
+# Other
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+*~
+*.swp
+
+# Local config
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# End of https://www.toptal.com/developers/gitignore/api/arduino
